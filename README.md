@@ -16,4 +16,4 @@ Project Pipeline: In the Juypter Notebook I carried out the following steps for 
 6) Tableau Dashboard7
 
 Twitter Sentimental Analysis Dashboard:
-DASHBOARD LINK: https://public.tableau.com/views/DASHBOARDStory/TwitterSentimentalAnalysisoftheRussia-UkraineConflict?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+DASHBOARD LINK: https://public.tableau.com/views/DASHBOARDStory/TwitterSentimentalAnalysisoftheRussia-UkraineConflict
